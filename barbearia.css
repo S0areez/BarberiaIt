@@ -1,0 +1,45 @@
+#banner{
+width: 100%;
+}
+img{
+border-image-width:100px;
+}
+
+body{
+    align-items: baseline;
+}
+
+
+.secundarios{
+    text-align: center;
+}
+
+#strong2{
+    color: rgba(255, 0, 0, 0.9);
+    
+}
+
+
+#sobre{
+    text-align: center;
+}
+#corpoSobre{
+    background-color:rgba(179, 177, 177, 0.76);
+    padding: 20px;
+}
+#beneficios{
+    width: 50%;
+}
+ul{
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+}
+
+.itens{
+    font-style: italic;
+}
+
+em strong{
+    color: #FF0000;
+}
